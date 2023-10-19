@@ -1,4 +1,4 @@
-# Improved-Website-Accessibility
+# Horiseon-Marketing
 
 ## Description
 This project aims to improve website accessibility by...
