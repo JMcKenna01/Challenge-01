@@ -14,7 +14,7 @@ N/A
 
 To access the section you wish to read, simply utilize the links located in the webpage's header. For guidance in locating the header, please refer to the image below.
 
-![Header of Webpage](Horiseon-Markleting-Nav.png)
+![Header of Webpage]([Horiseon-Markleting-Nav.png](https://github.com/JMcKenna01/Horiseon-Marketing/blob/main/Horiseon-Marketing-Nav.png)https://github.com/JMcKenna01/Horiseon-Marketing/blob/main/Horiseon-Marketing-Nav.png)
 
 ## Credits
 
