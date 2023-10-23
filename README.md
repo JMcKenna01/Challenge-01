@@ -16,7 +16,7 @@ To access the section you wish to read, simply utilize the links located in the 
 
 ![Header of Webpage]
 
-##Credits
+## Credits
 
 N/A
 
